@@ -1,0 +1,43 @@
+.employee-list {
+    display: flex;
+    justify-content: space-between;
+    width: 50vw;
+    border: 1px black;
+}
+
+.form-name-element {
+    display: flex;
+
+
+
+}
+
+.dropdown-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 50vw;
+}
+
+.form-element {
+
+
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
+
+.form-element-button {
+
+
+    margin-left: 20px;
+    margin-right: 5px;
+
+}
+
+.Designation {
+    margin-left: 270px;
+}
+
+.Salary {
+    margin-left: 270px;
+}
